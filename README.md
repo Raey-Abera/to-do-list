@@ -15,4 +15,3 @@ I would add a feature to check off/strike through list items when completed so t
 ## Lessons Learned:
 
 I learned how to append and hide items in the li using jquery and css.
-# to-do-list
